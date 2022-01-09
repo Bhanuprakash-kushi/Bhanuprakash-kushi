@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Bhanuprakash-kushi
-- 👀 I’m interested in Software development
-- 🌱 I’m currently learning Computer science
-- 💞️ I’m looking to collaborate in Open source projects and internships.
+- 🌱 Pursuing Bachelor's degree program in Computer science stream.
+- 💞️ I’m looking to contribute to Open source projects and internships.
 
 <!---
 Bhanuprakash-kushi/Bhanuprakash-kushi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
